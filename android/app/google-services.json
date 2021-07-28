@@ -1,0 +1,207 @@
+{
+  "project_info": {
+    "project_number": "819571195015",
+    "firebase_url": "https://doctorzone-431f7.firebaseio.com",
+    "project_id": "doctorzone-431f7",
+    "storage_bucket": "doctorzone-431f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819571195015:android:53fc564ddb4f5786a30c22",
+        "android_client_info": {
+          "package_name": "com.ama.doctorzone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819571195015-4lhkjlhe2lg5g5m6u06j7d5se3ng04vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone",
+            "certificate_hash": "b2dd62f6a73c34bf52fb5a0c907b0d50c3e9f785"
+          }
+        },
+        {
+          "client_id": "819571195015-5pr0gohbf12od077b5jmm4ppiks9160g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone",
+            "certificate_hash": "58586e38ee0e15fc9bcef81c61be95fbf5f74ad1"
+          }
+        },
+        {
+          "client_id": "819571195015-65ml090halh1l5m89m1tmo4ukqbp66oh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone",
+            "certificate_hash": "eca2235c71fa830aae226e99d40207d8a66a5bdc"
+          }
+        },
+        {
+          "client_id": "819571195015-gtnld6hlsrilvqk7tjrju3ugiuf40vt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone",
+            "certificate_hash": "6537402048221f7f3763e4e0351fbf979985f43c"
+          }
+        },
+        {
+          "client_id": "819571195015-fo5s6vp7pfkiechbvet2i8emturfs80a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone",
+            "certificate_hash": "877df9a1820ec5540e4496d81744d65f168c26d3"
+          }
+        },
+        {
+          "client_id": "819571195015-b2kmsoecouvgphae18vbicjao9bh9n1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WftDoiOLY2VCnmluaGYDyfQExT_0dAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819571195015-b2kmsoecouvgphae18vbicjao9bh9n1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819571195015-op16sguafs1mdp1tgi5ct9tuog4g6ijq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ama.doctorzone.doctors"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819571195015:android:d9b161c825ed39e2a30c22",
+        "android_client_info": {
+          "package_name": "com.ama.doctorzone.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819571195015-403m9o7p7f67s3ogts1697fo3mm8c20k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone.admin",
+            "certificate_hash": "58586e38ee0e15fc9bcef81c61be95fbf5f74ad1"
+          }
+        },
+        {
+          "client_id": "819571195015-39i49af50ih6brs25hbfjes67khi7tn2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone.admin",
+            "certificate_hash": "877df9a1820ec5540e4496d81744d65f168c26d3"
+          }
+        },
+        {
+          "client_id": "819571195015-b2kmsoecouvgphae18vbicjao9bh9n1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WftDoiOLY2VCnmluaGYDyfQExT_0dAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819571195015-b2kmsoecouvgphae18vbicjao9bh9n1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819571195015-op16sguafs1mdp1tgi5ct9tuog4g6ijq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ama.doctorzone.doctors"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819571195015:android:238bfd02d134fb4ba30c22",
+        "android_client_info": {
+          "package_name": "com.ama.doctorzone.doctors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819571195015-oor7j8v2m24ene3fv237uvcf5lncgtve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone.doctors",
+            "certificate_hash": "6b869f2370cd016290eafb722aa80ce39c58a998"
+          }
+        },
+        {
+          "client_id": "819571195015-2kf4l006g66f146nti2n2tn1l7tbg9ak.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone.doctors",
+            "certificate_hash": "b2dd62f6a73c34bf52fb5a0c907b0d50c3e9f785"
+          }
+        },
+        {
+          "client_id": "819571195015-02c9qbq57jsm0dvc1202ceiu24v92aba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone.doctors",
+            "certificate_hash": "58586e38ee0e15fc9bcef81c61be95fbf5f74ad1"
+          }
+        },
+        {
+          "client_id": "819571195015-khnom740g2aldufkptsja03i69j1djq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ama.doctorzone.doctors",
+            "certificate_hash": "877df9a1820ec5540e4496d81744d65f168c26d3"
+          }
+        },
+        {
+          "client_id": "819571195015-b2kmsoecouvgphae18vbicjao9bh9n1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WftDoiOLY2VCnmluaGYDyfQExT_0dAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819571195015-b2kmsoecouvgphae18vbicjao9bh9n1n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "819571195015-op16sguafs1mdp1tgi5ct9tuog4g6ijq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ama.doctorzone.doctors"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
